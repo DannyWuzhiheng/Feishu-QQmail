@@ -7,8 +7,8 @@ import re
 
 def recv_unread_email_by_imap():
     # 邮箱配置信息
-    email_address = "3688974995@qq.com"
-    email_password = "srnpbgepmqsucjcj"
+    email_address = "YOUR_EMAIL@qq.com"
+    email_password = "YOUR_PASS"
     imap_server_host = "imap.qq.com"
     imap_server_port = 993
 
