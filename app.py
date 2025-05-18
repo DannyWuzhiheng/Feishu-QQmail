@@ -19,7 +19,7 @@ def send_feishu_message(webhook, message):
     return response.json()
 
 
-webhook = 'https://open.feishu.cn/open-apis/bot/v2/hook/e20a0b68-7210-4b64-a9e8-2b68e609c429'
+webhook = 'YOUR_FEISHU_BOT_WEBBOOK_API'
 for i in outlook.main():
   response = send_feishu_message(webhook, i)
   print(response)
