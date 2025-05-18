@@ -19,3 +19,8 @@
 
 - 打开邮箱，配置POP3
 
+设置 -> 账户 -> POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务 -> 开启服务：POP3/SMTP服务
+
+设置 -> 账户 -> POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务 -> 生成授权码
+
+- 配置到py，自己更改
